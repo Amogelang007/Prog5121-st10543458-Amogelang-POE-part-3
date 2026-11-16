@@ -1,0 +1,40 @@
+run:
+Welcome to QuickChat.
+How many messages you want to send? 1
+
+--- My Menu ---
+1) Send Messages
+2) Show recently sent messages
+3) Stored Messages Report
+4) Quit
+1
+Enter recipient (+27...): 0718693002
+Enter message: hello its amo
+Message ready to send.
+Cell phone number is incorrectly formatted or does not contain an international code. Please correct the number and try again.
+
+--- My Menu ---
+1) Send Messages
+2) Show recently sent messages
+3) Stored Messages Report
+4) Quit
+1
+Enter recipient (+27...): +27718693002
+Enter message: Hello there its amo
+Message ready to send.
+Cell phone number successfully captured.
+Message ID: 4035269786
+Message Hash: 40:0:HELLOAMO
+1-Send 2-Disregard 3-Store
+Choose: 3
+Message successfully stored.
+Saved to storedMessages.json
+
+--- My Menu ---
+1) Send Messages
+2) Show recently sent messages
+3) Stored Messages Report
+4) Quit
+4
+You sent 0 messages. Bye!
+BUILD SUCCESSFUL (total time: 5 minutes 19 seconds)
